@@ -1,0 +1,23 @@
+
+# Папки сборки CMake
+build/
+build-linux/
+cmake-build-*/
+
+# Скомпилированные файлы
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Временные файлы macOS
+.DS_Store
+
+# Сгенерированная документация Doxygen
+docs/html/
+
+# Резервные копии
+*.bak
